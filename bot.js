@@ -106,4 +106,4 @@ client.on('error', e => {
   console.log(chalk.bgRed(e.replace(regToken, 'that was redacted')));
 });
 
-client.login(ayarlar.token);
+client.login(NDQ3MTMwMTk0MTgwOTY0MzUz.De2ubw.8LpTxH5XrwIidQFb4WrEi1wl9xE);
