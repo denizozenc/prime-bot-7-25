@@ -6,7 +6,7 @@ exports.run = (client, message, args) => {
   .setColor(0x00AE86)
   .setTimestamp()
   .setAuthor(message.author.username, message.author.avatarURL)
-  .setDescription("https://discordapp.com/api/oauth2/authorize?client_id=447041352073478144&permissions=2146958583&scope=bot ");
+  .setDescription("https://discordapp.com/oauth2/authorize?client_id=447130194180964353&scope=bot&permissions=2146958591");
   message.channel.sendEmbed(yaz)
 };
 
